@@ -30,3 +30,9 @@ vfx\efx\em\em105\em105_021
 5) renders when it fires it regularly from the mouth.
 6) These changes also reload when you replay the cinematic, very useful to quickly change effects and test.
 7) All the effects used by Xeno during gameplay are listed in em105_00.epv3.
+
+
+// TziTzi Yaku:
+// These are faulty
+vfx\efx\em\em120\em120_000
+vfx\efx\em\em120\em120_001
