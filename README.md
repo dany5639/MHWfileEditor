@@ -2,6 +2,9 @@ All files uploaded here are property of Capcom. They can also be extracted from 
 
 WARNING: use these instructions or files at your own risks. I never had issues with the game or savefiles during tests.
 
+WARNING: this is probably slightly different for latest and future updates, they seem to update older files by adding them to a new chunk pack.
+So a file from chunk0 can be found in chunk5 but modified. The game reads files from nativePC last, so they override chunk files.
+
 The uploaded files should completely remove any effects that freeze the system when Xeno fires his lasers.
 Exemple of a correct path "C:\MHW\nativePC\em\em105\00\epv\em105_00.epv3"
 The default file is required if you want to add back or remove other effects.
